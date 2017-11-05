@@ -137,3 +137,10 @@ Vector = (3, 4)
 ------------------------------------------------
 
 Numpy
+
+
+Visualization
+--------------
+
+https://plot.ly/python/
+https://bokeh.pydata.org/en/latest/docs/gallery/texas.html
