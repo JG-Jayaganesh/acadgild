@@ -1,0 +1,20 @@
+Data Sciences
+
+Machine Learning
+Deep Learning
+Reinforcement Learning
+
+NLP - (ML - DL - RL) - Chatbot (Entity, Intent, Relation extraction, conversation model) 
+Computer Vision - (ML - DL - RL) - Object Recognition, Detection, Video Recogntion 
+Prediction and clasification
+Recommendation
+Anomoly detection
+
+IBM Watson
+API.AI
+
+RASA NLU
+Spacy
+MItie
+
+9884898955
